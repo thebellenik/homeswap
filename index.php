@@ -8,8 +8,8 @@
   <body>
     <div class="content">
     <h1>Sick of commuting?</h1>
-    <img src="commute.jpg">
-  	<h1>Try <img src="logo.jpg"></h1>
+    <img id="image" src="commute.jpg">
+  	<h1>Try <img id="logo" src="logo.jpg"></h1>
     <a href="/">homeswap.herokuapp.com</a>
   </div>
 </body>
