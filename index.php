@@ -10,7 +10,7 @@
     <h1>Sick of commuting?</h1>
     <img id="image" src="commute.jpg">
   	<h1>Try <img id="logo" src="logo.jpg"></h1>
-    <a href="/">homeswap.herokuapp.com</a>
+    <a href="/">homeswapr.herokuapp.com</a>
   </div>
 </body>
 </html>

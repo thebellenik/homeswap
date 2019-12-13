@@ -5,6 +5,8 @@
 
 #logo{
   display: inline-block;
+  position: relative;
+  top: 12px;
 }
 
 body {
